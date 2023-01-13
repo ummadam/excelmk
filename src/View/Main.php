@@ -32,6 +32,8 @@ class Main extends Base
                                 <select class="form-control" id="material-select" name="provider" size="1">
                                     <option>...</option>                                    
                                     <option value="0">Seakoo</option>
+                                    <option value="1">Temptools</option>
+                                    <option value="2">Magkaznu</option>
                              
                                 </select>
                                 <label for="material-select">Выберите поставщика</label>

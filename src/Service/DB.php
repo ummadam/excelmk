@@ -10,7 +10,7 @@ class DB
     {
         if (is_null(self::$pdo)) {
             $host = '127.0.0.1';
-            $db   = 'temptools';
+            $db   = 'ebs';
             $user = 'admin';
             $pass = 'dinara280690';
             $charset = 'utf8';
